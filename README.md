@@ -1,4 +1,3 @@
-# precos
 # 🛒 AppPreços: Seu Guia Inteligente de Economia
 
 ## Visão Geral do Projeto
@@ -37,14 +36,25 @@ Este modelo garante um fluxo de receita contínuo, alinhando o sucesso do aplica
 *   **Banco de Dados**: PostgreSQL (para dados estruturados de produtos, preços, usuários e comerciantes)
 *   **Cloud Provider**: AWS / Google Cloud Platform / Microsoft Azure (para infraestrutura escalável e segura)
 
-## 🛠️ Como Contribuir (Se aplicável)
+## 🛠️ Como Contribuir
 
-[Instruções sobre como configurar o ambiente de desenvolvimento, rodar o projeto localmente, e como enviar contribuições (pull requests).]
+Para configurar o ambiente de desenvolvimento e rodar o projeto localmente, siga os passos:
 
-## 📄 Licença
+1.  **Pré-requisitos**: Certifique-se de ter Node.js, npm (ou yarn) e o React Native CLI instalados. Consulte a documentação oficial do React Native para configurar seu ambiente.
+2.  **Clonar o Repositório**: `git clone https://github.com/seu-usuario/AppPrecos.git`
+3.  **Navegar para o Diretório**: `cd AppPrecos`
+4.  **Instalar Dependências**: `npm install` ou `yarn install`
+5.  **Rodar o Aplicativo**: 
+    *   Android: `npx react-native run-android`
+    *   iOS: `npx react-native run-ios`
 
-[Informações sobre a licença do projeto, por exemplo, MIT License.]
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ## 📞 Contato
 
-Para dúvidas, parcerias ou mais informações, entre em contato com [Seu Nome/Email/Link de Contato].
+Para dúvidas, parcerias ou mais informações, entre em contato com:
+
+*   **Seu Nome**: [Nathalia Ferreira Henriques]
+*   **Email**: [nathaliafh@gmail.com]
+*   
+
